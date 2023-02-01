@@ -2,6 +2,7 @@
     * Estrutura
         * Tags base
     * O que é uma tag
+        * Tags com fechamento e sem
     * Atributos
         * O que são atributos
     * Tags de head
