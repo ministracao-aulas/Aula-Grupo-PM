@@ -3,17 +3,17 @@ Cruz, Luiz e Pedro
 
 ## Plano de estudos de Front-end essencial
 
-* ### 1 - HTML básico I
-    * Estrutura
+* ### 1 - HTML básico I ✅
+    * Estrutura ✅
         * Tags base
-    * O que é uma tag
+    * O que é uma tag ✅
         * Tags com fechamento e sem
-    * Atributos
+    * Atributos ✅
         * O que são atributos
-    * Tags de head
+    * Tags de head ✅
 
-* ### 2 - CSS Básico I
-    * Tipos de CSS [Done]
+* ### 2 - CSS Básico I 
+    * Tipos de CSS ✅
         * Inline
         * Inside
         * External
