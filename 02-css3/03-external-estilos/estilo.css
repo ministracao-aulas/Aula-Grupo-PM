@@ -1,0 +1,47 @@
+h1 {
+    font-size: 54px;
+}
+
+h1, h5 {
+    color: blue;
+    font-size: 86px;
+    margin-block-start: .67em;
+    margin-block-end: .67em;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+h5 {
+    text-decoration: overline;
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a.menu-link {
+    text-decoration: none;
+}
+
+a.menu-link:hover {
+    text-decoration: underline;
+    color: red;
+    font-weight: bold;
+}
+
+h4 {
+    color: salmon;
+}
+
+table.galery {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 75vh;
+}

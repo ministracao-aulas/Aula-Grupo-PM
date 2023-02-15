@@ -8,14 +8,15 @@
     * Tags de head
 
 * ### 2 - CSS Básico I
-    * Tipos de CSS
+    * Tipos de CSS [Done]
         * Inline
         * Inside
         * External
-        * Prioridades
-            * inline > inside > extenal
-            * !important
-            * prioridade por seletores específicos (nota)
+
+    * Prioridades
+        * inline > inside > extenal
+        * !important
+        * prioridade por seletores específicos (nota)
     * Seletores básicos
         * Classe
         * ID
