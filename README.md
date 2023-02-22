@@ -100,7 +100,7 @@ Cruz, Luiz e Pedro
         * Classes
         * Métodos
     * Eventos com JS
-        * Ouvindo eventos buil-in
+        * Ouvindo eventos built-in
         * Eventos personalizados
             * Criando
             * Disparando (dispatch)
