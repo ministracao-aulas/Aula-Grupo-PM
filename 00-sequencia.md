@@ -9,15 +9,16 @@
 
 * ### 2 - CSS Básico I
     * Tipos de CSS [Done]
-        * Inline
-        * Inside
-        * External
+        * Inline (no atributo style)
+        * Inside (na tag style no documento a ser estilizado)
+        * External (traz a estilização a partir de um arquivo .css externo)
 
     * Prioridades
         * inline > inside > extenal
         * !important
         * prioridade por seletores específicos (nota)
     * Seletores básicos
+        * Atributo
         * Classe
         * ID
         * Elemento

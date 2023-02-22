@@ -1,0 +1,89 @@
+/* [cidade^="Campos"] {
+    color: blue;
+}
+
+[cidade$="Campos"] {
+    color:brown;
+}
+
+[uf="sp"] [cidade="São Paulo"] {
+    color:yellowgreen;
+}
+
+[cidade="São Paulo"] {
+    color:aquamarine;
+}
+
+[cidade*="ipibu"] {
+    color:blueviolet;
+}
+
+[cidade~="de"] {
+    color:red;
+} */
+
+/*
+    ~=   abc
+
+    SIM = algo abc algo-depois
+    NÃO = algo abcd algo-depois
+    NÃO = algoabcdlgo
+
+    *=   abc
+
+    SIM = algo abc algo-depois
+    SIM = algo abcd algo-depois
+    SIM = algoabcdlgo
+
+
+*/
+
+/* [cidade|="Algo"] {
+    color:darkred;
+}
+
+[cidade|="Algo-de"] {
+    color:cadetblue;
+} */
+
+/* [uf="sp"] [cidade^="São"][tipo="capital"],
+#capital-de-sp
+{
+    color:red;
+} */
+
+.cor-vermelha {
+    color: red;
+}
+
+.cor-azul {
+    color: blue;
+}
+
+.cor-amarela {
+    color: yellow;
+}
+
+.texto-sublinhado {
+    text-decoration: underline;
+}
+
+.texto-maiusculo {
+    text-transform: uppercase;
+}
+
+.minha.classe.nova {
+    color: tomato;
+}
+
+.classe {
+    color: yellowgreen;
+}
+
+.minha {
+    color: burlywood;
+}
+
+.nova {
+    color: rebeccapurple;
+}

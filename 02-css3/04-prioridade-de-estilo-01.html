@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="04-prioridade-de-estilo-01.css">
+    <style>
+        strong {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div>
+            <strong>
+                Algo aqui dentro de uma div que está dentro de outra div
+            </strong>
+        </div>
+
+        <main>
+            <div>
+                <strong>
+                    Algo aqui dentro de uma div que está dentro de uma main
+                </strong>
+            </div>
+        </main>
+
+        <ul>
+            <li>
+                <strong
+                    style="color: red;"
+                >
+                    Algo aqui
+                </strong>
+            </li>
+            <li><strong>Algo aqui</strong></li>
+            <li><strong>Algo aqui</strong></li>
+        </ul>
+    </div>
+    <div>
+        <ul>
+            <li><strong>Algo aqui</strong></li>
+            <li><strong>Algo aqui</strong></li>
+            <li><strong>Algo aqui</strong></li>
+        </ul>
+    </div>
+    <div>
+        <ul>
+            <li><strong>Algo aqui</strong></li>
+            <li><strong>Algo aqui</strong></li>
+            <li><strong>Algo aqui</strong></li>
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+strong {
+    color: pink;
+}
+
+div  div  strong {
+    color: yellow;
+}
+
+div > div > strong {
+    color: purple;
+}
