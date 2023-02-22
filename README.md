@@ -12,7 +12,7 @@ Cruz, Luiz e Pedro
         * O que são atributos
     * Tags de head ✅
 
-* ### 2 - CSS Básico I 
+* ### 2 - CSS Básico I
     * Tipos de CSS ✅
         * Inline
         * Inside
@@ -132,3 +132,10 @@ Cruz, Luiz e Pedro
                 * sucesso/erro/ect
             * try/catch
             * async/await
+
+## Links úteis
+
+#### Seletores CSS
+* [Playground de Seletores CSS](https://www.w3schools.com/cssref/trysel.php) (Testar os seletores diretamente em um player)
+* [Referência de seletores CSS](https://www.w3schools.com/cssref/css_selectors.php)
+* [CSS/Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
