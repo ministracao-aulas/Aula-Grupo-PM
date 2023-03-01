@@ -12,29 +12,30 @@ Cruz, Luiz e Pedro
         * O que são atributos
     * Tags de head ✅
 
-* ### 2 - CSS Básico I
+* ### 2 - CSS Básico I ✅
     * Tipos de CSS ✅
-        * Inline
-        * Inside
-        * External
+        * Inline ✅
+        * Inside ✅
+        * External ✅
 
-    * Prioridades
-        * inline > inside > extenal
-        * !important
-        * prioridade por seletores específicos (nota)
-    * Seletores básicos
-        * Classe
-        * ID
-        * Elemento
-    * União de seletores
-        * Elemento com 2 ou mais seletores básicos
-        * Elementos aninhados (filiação)
+    * Prioridades ✅
+        * inline > inside > extenal ✅
+        * !important ✅
+        * prioridade por seletores específicos (nota) ✅
+    * Seletores básicos ✅
+        * Classe ✅
+        * ID ✅
+        * Elemento ✅
+        * Atributo ✅
+    * União de seletores ✅
+        * Elemento com 2 ou mais seletores básicos ✅
+        * Elementos aninhados (filiação) ✅
 
-* ### 3 - JS básico I
-    * Variáveis e constantes
-        * var
-        * let
-        * const
+* ### 3 - JS básico I ✅
+    * Variáveis e constantes ✅
+        * var ✅
+        * let ✅
+        * const ✅
     * Tipos de dados primitivos (e métodos destes)
         * String
         * Number
