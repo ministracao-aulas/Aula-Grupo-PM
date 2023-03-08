@@ -1,6 +1,9 @@
 # Aula-Grupo-PM
 Cruz, Luiz e Pedro
 
+## Next
+!!!! Estudar funções
+
 ## Plano de estudos de Front-end essencial
 
 * ### 1 - HTML básico I ✅
@@ -36,14 +39,35 @@ Cruz, Luiz e Pedro
         * var ✅
         * let ✅
         * const ✅
+    * Funções
+        - Funções
+            - Parâmetros obrigatórios e opcionais
+            - Sem parâmetros
+        - Funções anônimas
+            - Arrow function
+        - Retornos
     * Tipos de dados primitivos (e métodos destes)
-        * String
-        * Number
-        * Array
-        * Object
-        * Null
-        * NaN
-        * boolean
+        * String ✅
+            - métodos ✅
+            - atributos ✅
+        * Number ✅
+            - métodos ✅
+            - atributos ✅
+        * Array ✅
+            - métodos ✅
+            - atributos ✅
+        * Object [TODO] Estudar funções antes
+            - métodos
+            - atributos
+        * Null ✅
+            - NÃO TEM métodos ✅
+            - NÃO TEM atributos ✅
+        * NaN ✅
+            - métodos ✅
+            - atributos ✅
+        * Boolean ✅
+            - métodos ✅
+            - atributos ✅
 
 * ### 4 - HTML Básico II
     * Tags essenciais
